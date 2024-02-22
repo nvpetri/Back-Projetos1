@@ -46,16 +46,41 @@
       "nome": "nicolas",
       "email": "nicolas@nicolas.dev",
       "senha": "1234",
-      "premium": true,
+      "premium": 1,
       "id": 7
     },
     {
       "nome": "gustavo",
       "email": "gustavo@gustavo.dev",
       "senha": "1234",
-      "premium": false,
+      "premium": 0,
       "id": 8
     }
   ],
-  "tarefas": []
+  "tarefas": [
+    {
+      "tarefa": "2",
+      "concluida": false,
+      "idUsuario": "7",
+      "id": 9
+    },
+    {
+      "tarefa": "2",
+      "concluida": false,
+      "idUsuario": "7",
+      "id": 10
+    },
+    {
+      "tarefa": "ew",
+      "concluida": false,
+      "idUsuario": "7",
+      "id": 11
+    },
+    {
+      "tarefa": "ewewe",
+      "concluida": false,
+      "idUsuario": "7",
+      "id": 12
+    }
+  ]
 }
