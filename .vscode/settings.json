@@ -1,0 +1,5 @@
+{
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/b2ebd60c-bfb8-4458-817e-105859d8880f/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/testegerenciador",
+    "appService.deploySubpath": "."
+}
