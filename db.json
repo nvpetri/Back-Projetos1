@@ -1,86 +1,11 @@
 {
-  "usuario": [
-    {
-      "id": 1,
-      "nome": "João da Silva",
-      "email": " joao@silva.com",
-      "senha": "joao",
-      "premium": true
-    },
-    {
-      "id": 2,
-      "nome": "Maria Salvagni",
-      "email": " maria@salvagni.com",
-      "senha": "maria",
-      "premium": false
-    },
-    {
-      "id": 3,
-      "nome": "Gabriel Pereira",
-      "email": " gabriel@pereira.com",
-      "senha": "gabriel",
-      "premium": false
-    },
-    {
-      "nome": "nicolas",
-      "email": "nicolas@nicolas.com",
-      "senha": "1234",
-      "id": 4,
-      "premium": true
-    },
-    {
-      "nome": "gustavinho",
-      "email": "gustavo@lindo.com",
-      "senha": "gugu",
-      "id": 5,
-      "premium": false
-    },
-    {
-      "nome": "bragakai",
-      "email": "bragkai@gmail.com",
-      "senha": "kainan",
-      "id": 6,
-      "premium": false
-    },
-    {
-      "nome": "nicolas",
-      "email": "nicolas@nicolas.dev",
-      "senha": "1234",
-      "premium": 1,
-      "id": 7
-    },
-    {
-      "nome": "gustavo",
-      "email": "gustavo@gustavo.dev",
-      "senha": "1234",
-      "premium": 0,
-      "id": 8
-    }
-  ],
-  "tarefas": [
-    {
-      "tarefa": "2",
-      "concluida": false,
-      "idUsuario": "7",
-      "id": 9
-    },
-    {
-      "tarefa": "2",
-      "concluida": false,
-      "idUsuario": "7",
-      "id": 10
-    },
-    {
-      "tarefa": "ew",
-      "concluida": false,
-      "idUsuario": "7",
-      "id": 11
-    },
-    {
-      "tarefa": "ewewe",
-      "concluida": false,
-      "idUsuario": "7",
-      "id": 12
-    }
-  ]
+    "usuario": [
+
+    ],
+    "tarefas": [
+
+    ],
+    "comentarios": [
+
+    ]
 }
